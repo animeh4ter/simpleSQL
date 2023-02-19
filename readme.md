@@ -1,1 +1,1 @@
-# SQL related project
+# SQL related projects
